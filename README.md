@@ -7,3 +7,6 @@ There are 3 types of Recommender System -
 3. Hybrid
 
 We will be using Content based Recommender system.
+
+**Data FLow -
+Data -> Preprocessing -> Model Building -> Converting to Website
