@@ -26,3 +26,4 @@ Steps -
 12. Create 2 .pkl files for new_df and similarity dataframe
 
 Refer Kaggle dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+<img width="1437" alt="image" src="https://github.com/SamruddhiBhosale/RecommenderSystem/assets/41594930/9b49c803-c15c-4af4-a3c4-7f694499277d">
