@@ -24,3 +24,5 @@ Steps -
 10. distance is inversely proportinal to simillarity
 11. install pickle
 12. Create 2 .pkl files for new_df and similarity dataframe
+
+Refer Kaggle dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
